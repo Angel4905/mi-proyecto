@@ -1,8 +1,6 @@
 # 🚀 Mi proyecto
-
 Proyecto educativo creado con Node.js, Express, MySQL, HTML, Bootstrap y JavaScript.
-
-## Ejecutarlo
+Ejecutarlo
 
 ```bash
 npm install
@@ -11,7 +9,7 @@ npm start
 
 Después abre <http://localhost:3000>.
 
-## Conectar MySQL (opcional)
+Conectar MySQL (opcional)
 
 1. Copia `.env.example` como `.env`.
 2. Completa allí tus propios datos de conexión.
@@ -19,7 +17,7 @@ Después abre <http://localhost:3000>.
 
 El archivo `.env` está excluido de Git para proteger tus contraseñas.
 
-## Ciclo de Git
+Ciclo de Git
 
 ```bash
 git add .
